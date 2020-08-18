@@ -1,0 +1,2262 @@
+<SEC-DOCUMENT>0001144204-16-090259.txt : 20160325
+<SEC-HEADER>0001144204-16-090259.hdr.sgml : 20160325
+<ACCEPTANCE-DATETIME>20160325104523
+ACCESSION NUMBER:		0001144204-16-090259
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20151231
+<DEPOSITOR-CIK>0001180571
+<SPONSOR-CIK>0001660492
+FILED AS OF DATE:		20160325
+DATE AS OF CHANGE:		20160325
+<ABS-ASSET-CLASS>Equipment loans
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GE Equipment Midticket LLC, Series 2012-1
+		CENTRAL INDEX KEY:			0001556541
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-181103-01
+		FILM NUMBER:		161528967
+
+	MAIL ADDRESS:	
+		STREET 1:		44 OLD RIDGEBURY RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CEF EQUIPMENT HOLDING LLC
+		CENTRAL INDEX KEY:			0001180571
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				753066756
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-197074
+		FILM NUMBER:		161528968
+
+	MAIL ADDRESS:	
+		STREET 1:		44 OLD RIDGEBURY RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>v435249_10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B>FORM 10-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><B>x</B></FONT><B>
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">For the fiscal year ended December 31, 2015</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">or</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><B>&uml;</B></FONT><B>
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-decoration: none">For the transition period from _____________________________________to
+_________<U> </U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Commission file number 333-181103-01</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">GE EQUIPMENT MIDTICKET LLC, SERIES 2012-1<BR>
+(EXACT NAME OF ISSUING ENTITY)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Central Index Key Number of issuing entity:
+0001556541</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">CEF EQUIPMENT HOLDING, L.L.C.<BR>
+(EXACT NAME OF DEPOSITOR AS SPECIFIED IN ITS CHARTER)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Central Index Key Number of depositor: 0001180571</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">GE CAPITAL US HOLDINGS, INC. (as successor in
+interest to GENERAL ELECTRIC CAPITAL CORPORATION)<BR>
+(EXACT NAME OF SPONSOR AS SPECIFIED IN ITS CHARTER)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Central Index Key Number of sponsor: 0001660492</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-weight: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 48%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">DELAWARE</FONT></TD>
+    <TD STYLE="width: 4%; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 48%; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">20-5439580</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">State or other jurisdiction of</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">incorporation or organization</FONT></TD>
+    <TD STYLE="text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification No.)</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">201 MERRITT 7, NORWALK CONNECTICUT 06851</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">(Address of principal executive offices)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Registrant&rsquo;s telephone number, including
+area code: (203) 749-2101</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities registered pursuant to Section 12(b) of the Act: NONE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Securities registered pursuant to section 12(g) of the Act: NONE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act.</P>
+
+<P STYLE="font: 10pt Wingdings; margin: 0; text-align: right"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT>
+Yes <FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT> No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark if the registrant is not required to file
+reports pursuant to Section 13 or Section 15(d) of the Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT>
+Yes <FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT>  No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Indicate by checkmark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right; text-indent: 0in"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT>
+Yes&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT> No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Indicate by checkmark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (&sect; 229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant&rsquo;s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. <FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See
+definitions of &ldquo;accelerated filer,&rdquo; &ldquo;large accelerated filer&rdquo; and &ldquo;smaller reporting company&rdquo;
+in Rule 12b-2 of the Exchange Act. (Check one)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Large accelerated filer <FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accelerated
+filer <FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;</FONT>Non-accelerated
+filer&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;</FONT>Smaller
+reporting company <FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Indicate by check mark whether
+the registrant is a shell company (as defined in Rule 12b-2 of the Act).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right; text-indent: 0in"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT> Yes&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT> No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&rsquo;s most recently completed second fiscal
+quarter. NONE.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">DOCUMENTS INCORPORATED BY REFERENCE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">List hereunder the following
+documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated:
+(1) Any annual report to security holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule
+424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g.,
+annual report to security holders for fiscal year ended December 24, 1980). NONE.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><FONT STYLE="text-transform: uppercase"><B>PART
+I</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">THE FOLLOWING ITEMS HAVE BEEN OMITTED IN ACCORDANCE
+WITH GENERAL INSTRUCTION J TO FORM 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(A)</TD><TD>ITEM 1, BUSINESS.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(B)</TD><TD>ITEM 1A, RISK FACTORS.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(C)</TD><TD>ITEM 2, PROPERTIES.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(D)</TD><TD>ITEM 3, LEGAL PROCEEDINGS.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1B, UNRESOLVED STAFF
+COMMENTS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Not Applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 4, MINE SAFETY DISCLOSURES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Not Applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><FONT STYLE="text-transform: uppercase"><B>PART
+II</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">THE FOLLOWING ITEMS HAVE BEEN OMITTED IN ACCORDANCE
+WITH GENERAL INSTRUCTION J TO FORM 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(A)&#9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 5, MARKET FOR REGISTRANT&rsquo;S COMMON
+EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 6, SELECTED FINANCIAL DATA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 7, MANAGEMENT&rsquo;S DISCUSSION AND
+ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 7A, QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(E)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 8, FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(F)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 9, CHANGES IN AND DISAGREEMENTS WITH
+ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">(G)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 9A, CONTROLS AND PROCEDURES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 9B, OTHER INFORMATION.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">None.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><FONT STYLE="text-transform: uppercase"><B>PART
+III</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">THE FOLLOWING ITEMS HAVE
+BEEN OMITTED IN ACCORDANCE WITH GENERAL INSTRUCTION J TO FORM 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 10, DIRECTORS,
+EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 11, EXECUTIVE
+COMPENSATION.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 12, SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">(D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 13, CERTAIN RELATIONSHIPS
+AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">(E)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITEM 14, PRINCIPAL
+ACCOUNTING FEES AND SERVICES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><FONT STYLE="text-transform: uppercase"><B>PART
+IV</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><B>Item 15.&#9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits,
+Financial Statement Schedules</B>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 14%; border-bottom: Black 1pt solid; text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>Exhibit</B></FONT></TD>
+    <TD STYLE="width: 1%; text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></TD>
+    <TD STYLE="width: 85%; border-bottom: Black 1pt solid; text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>Description</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></TD>
+    <TD STYLE="text-align: center; text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 3.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Limited Liability Company Agreement of GE Equipment Midticket LLC, Series 2012-1, incorporated by reference to Exhibit 4(b) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Receivables Sale Agreement, incorporated by reference to Exhibit 4(c) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Receivables Purchase and Sale Agreement, incorporated by reference to Exhibit 4(d) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.3</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Servicing Agreement, incorporated by reference to Exhibit 4(e) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.4</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Indenture, incorporated by reference to Exhibit 4(f) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.5</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Administration Agreement, incorporated by reference to Exhibit 4(g) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.6</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Underwriting Agreement incorporated by reference to Exhibit 1(a) to Form 8-K dated September 19, 2012 and filed by the Depositor on September 20, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Instrument of Resignation, Appointment and Acceptance of Administrator, incorporated by reference to Exhibit 4.1 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Assignment and Assumption of Intercreditor Agreement, incorporated by reference to Exhibit 4.2 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.3</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Assignment of Receivables Sale Agreement, incorporated by reference to Exhibit 4.3 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.4</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Instrument of Resignation, Appointment and Acceptance of Servicer, incorporated by reference to Exhibit 4.4 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 31.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Certification of officer of the Depositor.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in"><B></B></P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in; width: 14%"><FONT STYLE="font-size: 10pt">Exhibit 33.1</FONT></TD>
+    <TD STYLE="text-indent: 0in; width: 1%">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in; width: 85%"><FONT STYLE="font-size: 10pt">Report on Assessment of Compliance with Servicing Criteria of GE Capital Global Holdings, LLC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 33.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Report on Assessment of Compliance with Servicing Criteria of Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 34.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Attestation Report of KPMG LLP, with respect to GE Capital Global Holdings, LLC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 34.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Attestation Report of KPMG LLP, with respect to Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 35.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Servicing Compliance Statement of GE Capital Global Holdings, LLC.</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">SUBSTITUTE INFORMATION PROVIDED
+IN ACCORDANCE WITH GENERAL INSTRUCTION J TO FORM 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1112(b) OF REGULATION
+AB. SIGNIFICANT OBLIGORS OF POOL ASSETS (FINANCIAL INFORMATION).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">No single obligor represents
+10% or more of the pool assets held by GE Equipment Midticket LLC, Series 2012-1 (the &ldquo;Issuing Entity&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1114(b)(2) OF REGULATION
+AB. CREDIT ENHANCEMENT AND OTHER SUPPORT, EXCEPT FOR CERTAIN DERIVATIVES INSTRUMENTS (INFORMATION REGARDING SIGNIFICANT ENHANCEMENT
+PROVIDERS).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">No entity or group of affiliated
+entities providing credit enhancement or other support with respect to either payment on the pool assets held by the Issuing Entity
+or payments on the notes (the &ldquo;Notes&rdquo;) issued by the Issuing Entity is liable or contingently liable to provide payments
+representing 10% or more of the cash flow supporting any class of Notes.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1115(b)(2) OF REGULATION
+AB. CERTAIN DERIVATIVES INSTRUMENTS (FINANCIAL INFORMATION).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">No entity or group of affiliated
+entities provides any derivative instruments that are used to alter the payment characteristics of the cashflows from the Issuing
+Entity.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1117 OF REGULATION AB.
+LEGAL PROCEEDINGS</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">There are no legal proceedings
+pending (or known to be contemplated by governmental authorities) against any of GE Capital US Holdings, Inc. (the &ldquo;Sponsor&rdquo;),
+CEF Equipment Holding, L.L.C. (the &ldquo;Depositor&rdquo;), the Issuing Entity or the other parties described in Item 1117 of
+Regulation AB or to which any of their respective property is subject, that are material to the holders of the Notes.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">Deutsche Bank Trust Company
+Americas (the &ldquo;Indenture Trustee&rdquo;), as indenture trustee, has provided the following information to the Depositor for
+inclusion in this Form 10-K: On June&nbsp;18,&nbsp;2014, a group of investors, including funds managed by Blackrock Advisors, LLC,
+PIMCO-Advisors, L.P., and others, filed a derivative action against Deutsche Bank National Trust Company (&ldquo;DBNTC&rdquo;)
+and Deutsche Bank Trust Company Americas (&ldquo;DBTCA&rdquo;) in New York State Supreme Court purportedly on behalf of and for
+the benefit of 544&nbsp;private-label residential mortgage backed securities (&ldquo;RMBS&rdquo;) trusts asserting claims for alleged
+violations of the U.S. Trust Indenture Act of&nbsp;1939 (TIA), breach of contract, breach of fiduciary duty and negligence based
+on DBNTC&rsquo;s and DBTCA&rsquo;s alleged failure to perform their duties as trustees for the trusts. Plaintiffs subsequently
+dismissed their state court complaint and filed a derivative and class action complaint in the U.S. District Court for the Southern
+District of New York (the &ldquo;SDNY Action&rdquo;) on behalf of and for the benefit of 564&nbsp;private-label RMBS trusts, which
+substantially overlapped with the trusts at issue in the state court action. The complaint alleges that the trusts at issue have
+suffered total realized collateral losses of U.S. $89.4&nbsp;billion, but the complaint does not include a demand for money damages
+in a sum certain. DBNTC and DBTCA filed a motion to dismiss, and on January 19, 2016, the court partially granted the motion on
+procedural grounds:&nbsp;as to the 500 trusts that are governed by Pooling and Servicing Agreements, the court declined to exercise
+jurisdiction. The court did not rule on substantive defenses asserted in the motion to dismiss as to the 64 trusts formed under
+indentures for which it retained jurisdiction.&nbsp; Instead, the court ordered plaintiffs to file an amended complaint as to those
+indenture trusts.&nbsp;On February 23, 2016, plaintiffs filed an amended complaint as to 62 of the 64 indenture trusts included
+in the original U.S. District Court complaint.&nbsp;DBNTC and DBTCA will have an opportunity to file new defensive motions with
+respect to this amended complaint. It is anticipated that plaintiffs will, in the near future, file a new state court complaint
+as to some or all of the 500 trusts governed by Pooling and Servicing Agreements which were dismissed from the U.S. District Court
+action.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">On December 30, 2015,
+IKB International, S.A. and IKB Deutsche Industriebank A.G. filed a Summons With Notice in New York state court naming as defendants
+DBNTC and DBTCA, as trustees of 37 RMBS trusts (the &ldquo;IKB Action&rdquo;).&nbsp; The claims in the IKB Action appear to be
+substantively similar to the SDNY Action.&nbsp; The IKB Action is not styled as a putative class action, but may attempt to bring
+derivative claims on behalf of the named RMBS Trusts.&nbsp; DBTCA intends to vigorously defend the IKB Action.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">DBTCA has no pending legal
+proceedings (including, based on DBTCA's present evaluation, the litigation disclosed in the foregoing paragraphs) that would materially
+affect its ability to perform its duties as Indenture Trustee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1119 OF REGULATION AB.
+AFFILIATIONS AND CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">The information required
+by Item 1119 of Regulation AB has been previously reported and has been omitted from this report on Form 10-K in reliance on the
+Instruction to Item 1119.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1122 OF REGULATION AB.
+COMPLIANCE WITH APPLICABLE SERVICING CRITERIA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">GE Capital Global Holdings,
+LLC (as successor in interest to General Electric Company, which is successor by merger to General Electric Capital Corporation
+(formerly known as General Electric Capital LLC)) (&ldquo;GE Capital Global&rdquo;) (in its role as servicer) and Deutsche Bank
+Trust Company Americas (in its role as indenture trustee) (together, the &ldquo;Servicing Parties&rdquo;) have each been identified
+by the registrant as parties participating in the servicing function with respect to the asset pool held by the Issuing Entity.
+Each of the Servicing Parties has completed a report on assessment of compliance with the servicing criteria applicable to it (each
+a &ldquo;Servicing Report&rdquo;), which Servicing Reports are attached as exhibits to this Form 10-K. Each of the Servicing Parties
+has provided an attestation report (each an &ldquo;Attestation Report&rdquo;) by one or more public accounting firms, which reports
+are also attached as exhibits to this Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">None of the Servicing Reports
+or Attestation Reports has identified any material instance of noncompliance with the servicing criteria to the respective Servicing
+Party.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">ITEM 1123 OF REGULATION AB.
+SERVICER COMPLIANCE STATEMENT.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">GE Capital Global (in its
+role as servicer) has been identified by the registrant as servicer with respect to the asset pool held by the Issuing Entity.
+GE Capital Global has completed a statement of compliance with applicable servicing criteria (the &ldquo;Compliance Statement&rdquo;),
+signed by an authorized officer of GE Capital Global. The Compliance Statement is attached as an exhibit to this Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;&nbsp;</B></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">SIGNATURES</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">GE Equipment Midticket LLC,
+Series 2012-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">(by CEF Equipment Holding,
+L.L.C.)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: left; text-indent: 0in">Date:&nbsp;&nbsp;&nbsp;March 24, 2016</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">By:</TD>
+    <TD COLSPAN="2" STYLE="text-align: left; text-indent: 0in; border-bottom: Black 1pt solid; padding-left: 0.25in">/s/ Thomas A. Davidson</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 26%; text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 22%; text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 6%; text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 6%; text-align: left; text-indent: 0in">Name:</TD>
+    <TD STYLE="width: 40%; text-align: left; text-indent: 0in">Thomas A. Davidson</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">Title:</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">President and Chief Executive Officer and</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 0in">Senior Officer in charge of Securitization</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Supplemental Information to be Furnished With Reports Filed Pursuant
+to Section 15(d) of the Act by Registrants Which Have Not Registered Securities Pursuant to Section 12 of the Act.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">No annual report or proxy materials have been sent to security holders
+and no such report or proxy materials are to be furnished to security holders subsequent to the filing of this Annual Report on
+Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><B>EXHIBIT INDEX</B></P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><B>&nbsp;</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 14%; border-bottom: Black 1pt solid; text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>Exhibit</B></FONT></TD>
+    <TD STYLE="width: 1%; text-align: center; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 85%; border-bottom: Black 1pt solid; text-align: center; text-indent: 0in"><FONT STYLE="font-size: 10pt"><B>Description</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: center; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-align: center; text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 3.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Limited Liability Company Agreement of GE Equipment Midticket LLC, Series 2012-1, incorporated by reference to Exhibit 4(b) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Receivables Sale Agreement, incorporated by reference to Exhibit 4(c) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Receivables Purchase and Sale Agreement, incorporated by reference to Exhibit 4(d) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.3</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Servicing Agreement, incorporated by reference to Exhibit 4(e) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.4</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Indenture, incorporated by reference to Exhibit 4(f) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.5</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Administration Agreement, incorporated by reference to Exhibit 4(g) to Form 8-K dated September 26, 2012 and filed by the Depositor on October 1, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 4.6</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Underwriting Agreement incorporated by reference to Exhibit 1(a) to Form 8-K dated September 19, 2012 and filed by the Depositor on September 20, 2012.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Instrument of Resignation, Appointment and Acceptance of Administrator, incorporated by reference to Exhibit 4.1 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Assignment and Assumption of Intercreditor Agreement, incorporated by reference to Exhibit 4.2 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.3</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Assignment of Receivables Sale Agreement, incorporated by reference to Exhibit 4.3 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 99.4</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Instrument of Resignation, Appointment and Acceptance of Servicer, incorporated by reference to Exhibit 4.4 to Form 8-K dated December 7, 2015 and filed by the Depositor on December 7, 2015.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 31.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Certification of officer of the Depositor.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 33.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Report on Assessment of Compliance with Servicing Criteria of GE Capital Global Holdings, LLC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 33.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Report on Assessment of Compliance with Servicing Criteria of Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas. </FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 34.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Attestation Report of KPMG LLP, with respect to GE Capital Global Holdings, LLC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 34.2</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Attestation Report of KPMG LLP, with respect to Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Exhibit 35.1</FONT></TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Servicing Compliance Statement of GE Capital Global Holdings, LLC.</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0in"><B>&nbsp;</B></P>
+
+
+<!-- Field: Page; Sequence: 7; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;&nbsp;</B></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>v435249_ex31-1.htm
+<DESCRIPTION>CERTIFICATION
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Exhibit 31.1 Certification of Officer of the Depositor</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-weight: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>CERTIFICATION PURSUANT TO</B><BR>
+<B>SECTION 302(A) OF THE SARBANES-OXLEY ACT OF 2002</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">I, Thomas A. Davidson,
+certify that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have reviewed
+this report on Form 10-K, and all reports on Form 10-D required to be filed in respect of the period covered by this report on
+Form 10-K of GE Equipment Midticket LLC, Series&nbsp;2012-1 (the &ldquo;Exchange Act periodic reports&rdquo;);</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on
+my knowledge, the Exchange Act periodic reports, taken as a whole, do not contain any untrue statement of a material fact or omit
+to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this report;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on
+my knowledge, all of the distribution, servicing and other information required to be provided under Form 10-D for the period covered
+by this report is included in the Exchange Act periodic reports;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on
+my knowledge and the servicer compliance statement required in this report under Item 1123 of Regulation AB, and except as disclosed
+in the Exchange Act periodic reports, the servicer has fulfilled its obligations under the servicing agreement in all material
+respects; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All of the
+reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on
+assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance
+with Item 1122 of Regulation AB and Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this report, except
+as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in
+this report on Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In giving the certifications
+above, I have reasonably relied on information provided to me by the following unaffiliated parties: Deutsche Bank National Trust
+Company, Deutsche Bank Trust Company Americas and GE Capital US Holdings, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%"><FONT STYLE="font-size: 10pt">March 24, 2016</FONT></TD>
+    <TD STYLE="width: 50%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 27pt; text-align: justify">/s/ Thomas A. Davidson</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">Name: Thomas A. Davidson</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>Title: President and Chief Executive Officer</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>CEF Equipment Holding, L.L.C.</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 2.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 2.5in; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 2.5in; text-indent: 0.5in">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.1
+<SEQUENCE>3
+<FILENAME>v435249_ex33-1.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Exhibit 33.1 Report on Assessment of Compliance with Servicing
+Criteria of GE Capital Global Holdings, LLC</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in"><B>GE CAPITAL
+GLOBAL HOLDINGS, LLC</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Management&rsquo;s Assessment of Compliance</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">1.</TD><TD STYLE="text-align: justify">Management of GE Capital Global Holdings, LLC (as successor in interest to General Electric Company,
+which is successor by merger to General Electric Capital Corporation (formerly known as General Electric Capital LLC)) (the &ldquo;Company&rdquo;)
+is responsible for assessing compliance with the servicing criteria applicable to it under paragraph (d) of Item 1122 of Regulation
+AB, promulgated by the Securities and Exchange Commission, as of and for the twelve months ended December 31, 2015 (the &ldquo;Reporting
+Period&rdquo;), as set forth in Appendix A hereto. Appendix B identifies the individual asset-backed transactions and securities
+defined by management as constituting the platform and includes asset-backed securities transactions, for which the Company acted
+as servicer, involving equipment loan receivables (the &ldquo;Platform&rdquo;);</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">2.</TD><TD STYLE="text-align: justify">The Company has engaged certain vendors which are not &ldquo;servicers&rdquo; as defined in Item
+1101(j) of Regulation AB (the &ldquo;Vendors&rdquo;) to perform specific, limited or scripted activities, and the Company&rsquo;s
+management elects to take responsibility for assessing compliance with the servicing criteria or portions of the servicing criteria
+applicable to such Vendors&rsquo; activities as set forth in Appendix A hereto, as permitted by the SEC&rsquo;s Compliance and
+Disclosure Interpretation (&ldquo;C&amp;DI&rdquo;) 200.06, Vendors Engaged by Servicers (C&amp;DI 200.06) (formerly SEC Manual
+Telephone Interpretation 17.06). As permitted by C&amp;DI 200.06, the Company has asserted that it has policies and procedures
+in place designed to provide reasonable assurance that the Vendors&rsquo; activities comply in all material respects with the servicing
+criteria applicable to each Vendor. The Company&rsquo;s management is solely responsible for determining that it meets the SEC
+requirements to apply C&amp;DI 200.06 for the Vendors and related criteria;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">3.</TD><TD STYLE="text-align: justify">The Company&rsquo;s management has assessed the Company&rsquo;s compliance with the applicable
+servicing criteria as of December 31, 2015 and for the Reporting Period. In making this assessment, management used the criteria
+set forth by the Securities and Exchange Commission in paragraph (d) of Item 1122 of Regulation AB except as set forth in paragraph
+4 below;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.</TD><TD STYLE="text-align: justify">The criteria listed in the column titled &ldquo;Inapplicable Servicing Criteria&rdquo; in Appendix
+A hereto are inapplicable to the Company based on the activities it performs, directly or through its Vendors, with respect to
+the Platform;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">5.</TD><TD STYLE="text-align: justify">Based on such assessment, management believes that, as of December 31, 2015 and for the Reporting
+Period, the Company has complied in all material respects with the servicing criteria set forth in Item 1122(d) of Regulation AB
+of the Securities and Exchange Commission relating to the servicing of the Platform;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">6.</TD><TD STYLE="text-align: justify">KPMG LLP, an independent registered public accounting firm, has issued an attestation report with
+respect to management&rsquo;s assessment of compliance with the applicable servicing criteria as of December 31, 2015 and for the
+Reporting Period.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">March 15, 2016</FONT></TD>
+    <TD COLSPAN="3" STYLE="text-align: left"><FONT STYLE="font-size: 10pt">GE CAPITAL GLOBAL HOLDINGS, LLC</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 3%; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 6%; text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="width: 41%; text-indent: 0in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; text-indent: 0in; padding-left: 0.375in"><FONT STYLE="font-size: 10pt">/s/ Thomas A. Davidson</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Name: </FONT></TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Thomas A. Davidson</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in">&nbsp;</TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Title: </FONT></TD>
+    <TD STYLE="text-indent: 0in"><FONT STYLE="font-size: 10pt">Authorized Signatory</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in">APPENDIX A<BR>
+<BR>
+</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR>
+    <TD NOWRAP COLSPAN="2" STYLE="vertical-align: bottom; border: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD COLSPAN="2" STYLE="vertical-align: bottom; border-top: Black 1.5pt solid; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Applicable&nbsp;</B></FONT><BR>
+<FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="width: 14%; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Reference</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 46%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Criteria</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+    <FONT STYLE="font-size: 10pt"><B>Directly</B></FONT><BR>
+    <FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+    <FONT STYLE="font-size: 10pt"><B>the<BR>
+&nbsp;Company</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Vendor(s)</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>for&nbsp;which</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Company&nbsp;is</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Responsible</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Party</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 16%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>INAPPLICABLE</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>SERVICING</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>CRITERIA</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; padding-top: 8pt"><FONT STYLE="font-size: 10pt"><B>General servicing considerations</B></FONT></TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(1)(i)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(1)(ii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party&rsquo;s performance and compliance with such servicing activities.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(1)(iii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Any requirements in the transaction agreements to maintain a back-up servicer for the pool assets are maintained.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(1)(iv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(1)(v)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Aggregation of information, as applicable, is mathematically accurate and the information conveyed accurately reflects the information.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>1</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; padding-top: 8pt"><FONT STYLE="font-size: 10pt"><B>Cash collection and administration</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(i)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days following receipt, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>2</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(ii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(iii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>3</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(iv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of overcollateralization, are separately maintained (<I>e.g</I>., with respect to commingling of cash) as set forth in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 25%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>1</SUP> With respect to applicable servicing criterion 1122(d)(1)(v),
+the Company has assessed compliance for all transactions and securities in the Platform, including those issued on or before November
+23, 2015 for which compliance was previously assessed under other servicing criteria in accordance with the SEC Division of Corporation
+Finance&rsquo;s <I>Manual of Publicly Available Interpretations on Regulation AB and Related Rules, Interpretation 11.03</I>, as
+applicable, for the entire assessment period as of and for the year ended December 31, 2015.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>2</SUP> Certain of the activities described in servicing criterion
+1122(d)(2)(i) are outsourced to Vendors and the Company has elected to take responsibility for assessing such Vendors&rsquo; compliance
+with servicing criterion 1122(d)(2)(i).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>3</SUP> There were no activities performed during the twelve
+months ended December 31, 2015 with respect to the Platform, because there were no occurrences of events that would require the
+Company to perform such activities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR>
+    <TD NOWRAP COLSPAN="2" STYLE="vertical-align: bottom; border: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD COLSPAN="2" STYLE="border-top: Black 1.5pt solid; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Applicable&nbsp;</B></FONT><BR>
+<FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; border-bottom: Black 1.5pt solid">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="width: 14%; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Reference</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 46%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Criteria</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Directly</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the&nbsp;<BR>
+Company</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Vendor(s)</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>for&nbsp;which</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Company&nbsp;is</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Responsible</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Party</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 16%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>INAPPLICABLE</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>SERVICING</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>CRITERIA</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(v)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, &ldquo;federally insured depository institution&rdquo; with respect to a foreign financial institution means a foreign financial institution that meets the requirements of Rule 240.13k-1(b)(1) of this chapter.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(vi)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Unissued checks are safeguarded so as to prevent unauthorized access.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(2)(vii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations: (A) Are mathematically accurate; (B) Are prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) Are reviewed and approved by someone other than the person who prepared the reconciliation; and (D) Contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>4</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<SUP>4,<FONT STYLE="font-family: Times New Roman, Times, Serif">5</FONT></SUP></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; padding-top: 8pt"><FONT STYLE="font-size: 10pt"><B>Investor remittances and reporting</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(3)(i)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports: (A) Are prepared in accordance with timeframes and other terms set forth in the transaction agreements; (B) Provide information calculated in accordance with the terms specified in the transaction agreements; (C) Are filed with the Commission as required by its rules and regulations; and (D) Agree with investors&rsquo; or the trustee&rsquo;s records as to the total unpaid principal balance and number of pool assets serviced by the servicer.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(3)(ii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(3)(iii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Disbursements made to an investor are posted within two business days to the servicer&rsquo;s investor records, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(3)(iv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 25%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>4</SUP> With respect to servicing criterion 1122(d)(2)(vii)(B),
+which relates to the timeliness of preparation of bank reconciliations, as permitted by criterion 1122(d)(2)(vii)(B), the Company
+has assessed compliance with this criterion based on the number of days specified for such bank reconciliations in the transaction
+agreements, which state that bank reconciliations are to be performed in accordance with the Company&rsquo;s credit and collection
+policy. The Company&rsquo;s credit and collection policy requires reconciliations to be performed within 40 calendar days after
+the bank statement cutoff date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>5</SUP> Certain of the activities described in servicing criteria
+1122(d)(2)(vii)(A)-(B) and 1122(d)(2)(vii)(D) are outsourced to Vendors and the Company has elected to take responsibility for
+assessing such Vendors&rsquo; compliance with servicing criteria 1122(d)(2)(vii)(A)-(B) and 1122(d)(2)(vii)(D).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR>
+    <TD NOWRAP COLSPAN="2" STYLE="vertical-align: bottom; border: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD COLSPAN="2" STYLE="border-top: Black 1.5pt solid; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Applicable&nbsp;</B></FONT><BR>
+<FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="width: 14%; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Reference</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 46%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Criteria</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Directly</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the<BR>
+&nbsp;Company</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Vendor(s)</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>for&nbsp;which</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Company&nbsp;is</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Responsible</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Party</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 16%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>INAPPLICABLE</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>SERVICING</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>CRITERIA</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; border-left: Black 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; padding-top: 8pt"><FONT STYLE="font-size: 10pt"><B>Pool asset administration</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; border-right: Black 1.5pt solid">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(i)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; border-top: Black 1.5pt solid"><FONT STYLE="font-size: 10pt">Collateral or security on pool assets is maintained as required by the transaction agreements or related mortgage loan documents.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; border-top: Black 1.5pt solid"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; border-top: Black 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; border-top: Black 1.5pt solid">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(ii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Pool assets and related documents are safeguarded as required by the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>6</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(iii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(iv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the applicable servicer&rsquo;s obligor records maintained no more than two business days after receipt, or such other number of days specified in the transaction agreements, and allocated to principal, interest or other items (<I>e.g</I>., escrow) in accordance with the related pool asset documents.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>7</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(v)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">The servicer&rsquo;s records regarding the pool assets agree with the servicer&rsquo;s records with respect to an obligor&rsquo;s unpaid principal balance.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(vi)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Changes with respect to the terms or status of an obligor's pool assets (<I>e.g</I>., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the transaction agreements and related pool asset documents.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(vii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Loss mitigation or recovery actions (<I>e.g</I>., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or other requirements established by the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(viii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period specified in the transaction agreements, and describe the entity&rsquo;s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (<I>e.g</I>., illness or unemployment).</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>8</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(ix)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>9</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 25%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>6</SUP> The activities described in servicing criterion 1122(d)(4)(ii)
+are outsourced to Vendors and the Company has elected to take responsibility for assessing such Vendors&rsquo; compliance with
+servicing criterion 1122(d)(4)(ii).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>7</SUP> Certain of the activities described in servicing criterion
+1122(d)(4)(iv) are outsourced to Vendors and the Company has elected to take responsibility for assessing such Vendors&rsquo; compliance
+with servicing criterion 1122(d)(4)(iv).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>8</SUP> Certain of the activities described in servicing criterion
+1122(d)(4)(viii) are outsourced to Vendors and the Company has elected to take responsibility for assessing such Vendors&rsquo;
+compliance with servicing criterion 1122(d)(4)(viii).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>9</SUP> There were no activities performed during the twelve
+months ended December 31, 2015 with respect to the Platform, because there were no occurrences of events that would require the
+Company to perform such activities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR>
+    <TD NOWRAP COLSPAN="2" STYLE="vertical-align: bottom; border: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD COLSPAN="2" STYLE="border-top: Black 1.5pt solid; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Applicable&nbsp;</B></FONT><BR>
+<FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Servicing&nbsp;Criteria</B></FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD NOWRAP STYLE="width: 14%; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Reference</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 46%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Criteria</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Directly</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the&nbsp;<BR>
+Company</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 12%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: none; text-align: center"><FONT STYLE="font-size: 10pt"><B>Performed</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>by</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Vendor(s)</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>for&nbsp;which</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Company&nbsp;is</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>the</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Responsible</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>Party</B></FONT></TD>
+    <TD NOWRAP STYLE="width: 16%; border-bottom: Black 1.5pt solid; border-right: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>INAPPLICABLE</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>SERVICING</B></FONT><BR>
+<FONT STYLE="font-size: 10pt"><B>CRITERIA</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(x)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Regarding any funds held in trust for an obligor (such as escrow accounts): (A) Such funds are analyzed, in accordance with the obligor&rsquo;s pool asset documents, on at least an annual basis, or such other period specified in the transaction agreements; (B) Interest on such funds is paid, or credited, to obligors in accordance with applicable pool asset documents and state laws; and (C) Such funds are returned to the obligor within 30 calendar days of full repayment of the related pool asset, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(xi)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support has been received by the servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(xii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the servicer&rsquo;s funds and not charged to the obligor, unless the late payment was due to the obligor&rsquo;s error or omission.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(xiii)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Disbursements made on behalf of an obligor are posted within two business days to the obligor&rsquo;s records maintained by the servicer, or such other number of days specified in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(xiv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Delinquencies, charge-offs and uncollectable accounts are recognized and recorded in accordance with the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X</B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD NOWRAP STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; border-left: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">1122(d)(4)(xv)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of this Regulation AB, is maintained as set forth in the transaction agreements.</FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>X<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>10</SUP></FONT></B></FONT></TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1.5pt solid; border-bottom: Black 1.5pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 25%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><SUP>10</SUP> There were no activities performed during the twelve
+months ended December 31, 2015 with respect to the Platform, because there were no occurrences of events that would require the
+Company to perform such activities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 9pt; text-align: center; text-indent: -9pt">APPENDIX B</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 9pt; text-align: center; text-indent: -9pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Midticket LLC, Series 2011-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Midticket LLC, Series 2012-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Midticket LLC, Series 2013-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Midticket LLC, Series 2014-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Transportation LLC, Series 2012-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Transportation LLC, Series 2012-2</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Transportation LLC, Series 2013-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Transportation LLC, Series 2013-2</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE Equipment Transportation LLC, Series 2014-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 9pt; text-indent: -9pt">GE Equipment Transportation LLC, Series
+2015-1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+
+<!-- Field: Page; Sequence: 6; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;&nbsp;</B></P>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.2
+<SEQUENCE>4
+<FILENAME>v435249_ex33-2.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: left"><B>Exhibit 33.2 Report on Assessment of Compliance with Servicing
+Criteria of Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>MANAGEMENT&rsquo;S ASSERTION OF COMPLIANCE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Management of the Trust &amp; Securities Services department of
+Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas (collectively the &ldquo;Company&rdquo;) is responsible
+for assessing the servicing criteria set forth in Item 1122(d) of Regulation AB promulgated by the Securities and Exchange Commission
+to determine which criteria are applicable to the Company in respect of the servicing platform described below. Management has
+determined that the servicing criteria are applicable in regard to the servicing platform as of and for the period as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><U>Platform</U>: Publicly-issued (<I>i.e.</I>, transaction-level
+reporting required under the Securities Exchange Act of 1934, as amended) and certain privately-issued (<I>i.e.</I>, for which
+transaction-level reporting is required pursuant to contractual obligation) residential mortgage-backed securities, commercial
+mortgage-backed securities and other asset-backed securities issued on or after January 1, 2006, for which the Company provides
+trustee, certificate administrator, securities administration, paying agent or custodian<B> </B>services, as defined in the transaction
+agreements, excluding publicly-issued securities sponsored or issued by any government sponsored entity (the &ldquo;Platform&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><U>Applicable Servicing Criteria</U>: All servicing criteria set
+forth in Item 1122(d), to the extent required by Item 1122(d) servicing criteria in regards to the activities performed by the
+Company with respect to the Platform as to any transaction, except for the following criteria: 1122(d)(4)(iv) &ndash; 1122(d)(4)(xiv),
+which management has determined are not applicable to the activities the Company performs with respect to the Platform (the &ldquo;Applicable
+Servicing Criteria&rdquo;). With respect to Applicable Servicing Criteria 1122(d)(1)(ii), 1122(d)(1)(iii), 1122(d)(2)(iii) and
+1122(d)(4)(iii) there were no activities performed during the year ended December 31, 2015 with respect to the Platform, because
+there were no occurrences of events that would require the Company to perform such activities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><U>Period</U>: Year ended December 31, 2015 (the &ldquo;Period&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><U>Management's interpretation of Applicable Servicing Criteria</U>:
+The Company&rsquo;s management has determined that servicing criterion 1122(d)(1)(iii) is applicable only with respect to its continuing
+obligation to act as, or locate a, successor servicer under the circumstances referred to in certain transaction agreements. It
+is management's interpretation that the Company has no other active back-up servicing responsibilities in regards to servicing
+criterion 1122(d)(1)(iii) as of and for the Period. The Company&rsquo;s management has determined that servicing criterion 1122(d)(1)(v)
+is applicable to the activities the Company performs with respect to the Platform for all transactions in the Platform, including
+those issued on or before November 23, 2015 for which compliance was previously assessed under other servicing criteria in accordance
+with the SEC Division of Corporation Finance&rsquo;s <I>Manual of Publicly Available Interpretations on Regulation AB and Related
+Rules, Interpretation 11.03</I>, as applicable, as of and for the Period; provided further that, Management has determined that
+servicing criterion 1122(d)(1)(v) is applicable only to the activities the Company performs related to the mathematically accurate
+aggregation of information received from servicers and the accurate conveyance of such information within reports to investors.
+The Company&rsquo;s management has determined that servicing criterion 1122(d)(4)(iii) is applicable to the activities the Company
+performs with respect to the Platform only as it relates to the Company&rsquo;s obligation to report additions, removals or substitutions
+on reports to investors in accordance with the transaction agreements.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">With respect to the Platform as of and for the Period, the Company&rsquo;s
+management provides the following assertion of compliance with respect to the Applicable Servicing Criteria:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD>The Company&rsquo;s management is responsible for assessing the Company&rsquo;s compliance with the Applicable Servicing Criteria.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD>The Company&rsquo;s management has assessed compliance with the Applicable Servicing Criteria. In making this assessment, management
+used the criteria set forth by the Securities and Exchange Commission in paragraph (d) of Item 1122 of Regulation AB.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.25in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD>Based on such assessment, the Company has complied, in all material respects with the Applicable Servicing Criteria.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">KPMG LLP, an independent registered public
+accounting firm, has issued an attestation report with respect to management&rsquo;s assertion of compliance with the Applicable
+Servicing Criteria as of and for the Period.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><B>DEUTSCHE BANK NATIONAL TRUST COMPANY</B></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 45%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 0in; text-align: left">/s/ David Co</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name:&nbsp;David Co </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Its:&nbsp;Director </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 0in">/s/ Matt Bowen</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name:&nbsp;Matt Bowen </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Its:&nbsp;Managing Director </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 0in">/s/ Kevin Fischer</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name:&nbsp;Kevin Fischer </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Its:&nbsp;Director </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><B>DEUTSCHE BANK TRUST COMPANY AMERICAS</B></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 0in">/s/ David Co</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name:&nbsp;David Co </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Its:&nbsp;Director </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-left: 0in">/s/ Jenna Kaufman</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Name:&nbsp;Jenna Kaufman </TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">Its:&nbsp;Director </TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 2.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Dated: February 26, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-34.1
+<SEQUENCE>5
+<FILENAME>v435249_ex34-1.htm
+<DESCRIPTION>ATTESTATION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Exhibit 34.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attestation Report of KPMG LLP, with respect to
+GE Capital Global Holdings, LLC</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>Report
+of Independent Registered Public Accounting Firm</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">The Board of Directors of GE Capital
+Global Holdings, LLC:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">We have examined management&rsquo;s assessment,
+included in the accompanying Management&rsquo;s Assessment of Compliance, that GE Capital Global Holdings, LLC (as successor in
+interest to General Electric Company, which is successor by merger to General Electric Capital Corporation (formerly known as General
+Electric Capital LLC)) (the &ldquo;Company&rdquo;) complied with the servicing criteria set forth in Item 1122(d) of the Securities
+and Exchange Commission&rsquo;s Regulation AB for publicly-issued (i.e., transaction-level reporting initially required under the
+Securities Exchange Act of 1934, as amended) asset-backed securities transactions issued on or after January&nbsp;1, 2006, for
+which the Company acted as servicer, involving equipment loan receivables (the Platform), except for servicing criteria 1122(d)(1)(iii),
+1122(d)(1)(iv), 1122(d)(2)(vi), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii) and 1122(d)(4)(xiii), which the Company has determined
+are not applicable to the activities it performs with respect to the Platform, as of and for the twelve months ended December&nbsp;31,
+2015<I>.</I> The Company has determined that servicing criterion 1122(d)(1)(v) is applicable to the activities the Company performs
+with respect to the Platform for all transactions and securities in the Platform, including those issued on or before November&nbsp;23,
+2015 for which compliance was previously assessed under other servicing criteria in accordance with the SEC Division of Corporation
+Finance&rsquo;s <I>Manual of Publicly Available Interpretations on Regulation AB and Related Rules, Interpretation 11.03, </I>as
+applicable, for the 2015 assessment period as of and for the year ended December&nbsp;31, 2015. With respect to applicable servicing
+criteria 1122(d)(2)(iii), 1122(d)(4)(ix) and 1122(d)(4)(xv), the Company has determined that there were no activities performed
+during the twelve months ended December&nbsp;31, 2015 with respect to the Platform, because there were no occurrences of events
+that would require the Company to perform such activities. Appendix B to Management&rsquo;s Assessment of Compliance identifies
+the individual asset-backed transactions and securities defined by management as constituting the Platform. Management is responsible
+for the Company&rsquo;s compliance with the servicing criteria. Our responsibility is to express an opinion on management&rsquo;s
+assessment about the Company&rsquo;s compliance based on our examination.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Our examination was conducted in accordance
+with the attestation standards of the Public Company Accounting Oversight Board (United States)<B> </B>and, accordingly, included
+examining, on a test basis, evidence about the Company&rsquo;s compliance with the servicing criteria specified above and performing
+such other procedures as we considered necessary in the circumstances. Our examination included testing selected asset-backed transactions
+and securities that comprise the Platform, testing selected servicing activities related to the Platform, and determining whether
+the Company processed those selected transactions and performed those selected activities in compliance with the servicing criteria.
+Furthermore, our procedures were limited to the selected transactions and servicing activities performed by the Company during
+the period covered by this report. Our procedures were not designed to determine whether errors may have occurred either prior
+to or subsequent to our tests that may have affected the balances or amounts calculated or reported by the Company during the period
+covered by this report for the selected transactions or any other transactions. We believe that our examination provides a reasonable
+basis for our opinion. Our examination does not provide a legal determination on the Company&rsquo;s compliance with the servicing
+criteria.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">As described in the accompanying Management&rsquo;s
+Assessment of Compliance, for servicing criteria 1122(d)(2)(i), 1122(d)(2)(vii)(A)-(B), 1122(d)(2)(vii)(D), 1122(d)(4)(ii), 1122(d)(4)(iv)
+and 1122(d)(4)(viii), the Company has engaged various vendors to perform the activities required by these servicing criteria. The
+Company has determined that none of these vendors are considered a &ldquo;servicer&rdquo; as defined in Item 1101(j) of Regulation
+AB, and the Company has elected to take responsibility for assessing compliance with the servicing criteria applicable to each
+vendor as permitted by the SEC&rsquo;s <I>Compliance and Disclosure Interpretation (&ldquo;C&amp;DI&rdquo;) 200.06, Vendors Engaged
+by Servicers</I> (C&amp;DI 200.06) (formerly SEC Manual Telephone Interpretation 17.06). As permitted by C&amp;DI 200.06, the Company
+has asserted that it has policies and procedures in place designed to provide reasonable assurance that the vendors&rsquo; activities
+comply in all material respects with the servicing criteria applicable to each vendor. The Company is solely responsible for determining
+that it meets the SEC requirements to apply C&amp;DI 200.06 for the vendors and related criteria as described in its assessment,
+and we performed no procedures with respect to the Company&rsquo;s eligibility to apply C&amp;DI 200.06<FONT STYLE="font-family: Times New Roman, Times, Serif">.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">In our opinion, management&rsquo;s assessment
+that the Company complied with the aforementioned servicing criteria, including servicing criteria 1122(d)(2)(i), 1122(d)(2)(vii)(A)-(B),
+1122(d)(2)(vii)(D), 1122(d)(4)(ii), 1122(d)(4)(iv) and 1122(d)(4)(viii) for which compliance is determined based on C&amp;DI 200.06
+as described above, as of and for the twelve months ended December&nbsp;31, 2015 is fairly stated in all material respects.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">/s/KPMG LLP</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Chicago, Illinois<BR>
+March 15, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;&nbsp;</B></P>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-34.2
+<SEQUENCE>6
+<FILENAME>v435249_ex34-2.htm
+<DESCRIPTION>ATTESTATION REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Exhibit 34.2&#9;&nbsp;&nbsp;&nbsp;&nbsp;Attestation Report of KPMG LLP, with respect
+to Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>&nbsp;</B></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase">Report
+of Independent Registered Public Accounting Firm</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The Board of Directors</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">The Trust &amp;
+Securities Services department of Deutsche Bank National Trust Company and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">Deutsche Bank
+Trust Company Americas:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">We have examined management&rsquo;s assertion,
+included in the accompanying Management&rsquo;s Assertion of Compliance, that the Trust &amp; Securities Services department of
+Deutsche Bank National Trust Company and Deutsche Bank Trust Company Americas (collectively the &ldquo;Company&rdquo;) complied
+with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission&rsquo;s Regulation AB for publicly-issued
+(<I>i.e.</I>, transaction-level reporting required under the Securities Exchange Act of 1934, as amended) and certain privately-issued
+(<I>i.e.</I>, for which transaction-level reporting is required pursuant to contractual obligation) residential mortgage-backed
+securities, commercial mortgage-backed securities and other asset-backed securities issued on or after January&nbsp;1, 2006, for
+which the Company provides trustee, certificate administrator, securities administration, paying agent or custodian services, as
+defined in the transaction agreements, excluding publicly-issued securities sponsored or issued by any government sponsored entity
+(the &ldquo;Platform&rdquo;), except for servicing criteria 1122(d)(4)(iv) &ndash; 1122(d)(4)(xiv), which the Company has determined
+are not applicable to the activities it performs with respect to the Platform, as of and for the year ended December&nbsp;31, 2015.
+With respect to servicing criteria 1122(d)(1)(ii), 1122(d)(1)(iii), 1122(d)(2)(iii) and 1122(d)(4)(iii), Management&rsquo;s Assertion
+of Compliance indicates that there were no activities performed during the year ended December&nbsp;31, 2015 with respect to the
+Platform, because there were no occurrences of events that would require the Company to perform such activities. The Company has
+determined the following servicing criteria to be applicable only to the activities the Company performs with respect to the Platform
+as described below:</P>
+
+<P STYLE="font: 10pt Symbol; margin: 0 0 0 17pt; text-align: justify; text-indent: -17pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 17pt"><FONT STYLE="font: 10pt Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">Servicing criterion 1122(d)(1)(iii) is applicable only with respect to the Company&rsquo;s continuing
+obligation to act as, or locate a, successor servicer under the circumstances referred to in certain transaction agreements. It
+is management&rsquo;s interpretation that the Company has no other active back-up servicing responsibilities in regards to servicing
+criterion 1122(d)(1)(iii) as of and for the year ended December&nbsp;31, 2015.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Symbol; margin: 0 0 0 17pt; text-align: justify; text-indent: -17pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 17pt"><FONT STYLE="font: 10pt Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">Servicing criterion 1122(d)(1)(v) is applicable to the activities the Company performs with respect
+to the Platform for all transactions in the Platform, including those issued on or before November&nbsp;23, 2015 for which compliance
+was previously assessed under other servicing criteria in accordance with the SEC Division of Corporation Finance&rsquo;s <I>Manual
+of Publicly Available Interpretations on Regulation AB and Related Rules, Interpretation 11.03</I>, as applicable, as of and for
+the year ended December&nbsp;31, 2015; provided further that, Management has determined that servicing criterion 1122(d)(1)(v)
+is applicable only to the activities the Company performs related to the mathematically accurate aggregation of information received
+from servicers and the accurate conveyance of such information within reports to investors.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Symbol; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 17pt"><FONT STYLE="font: 10pt Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">Servicing criterion 1122(d)(4)(iii) is applicable to the activities the Company performs with respect
+to the Platform only as it relates to the Company&rsquo;s obligation to report additions, removals or substitutions on reports
+to investors in accordance with the transaction agreements.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 17pt; text-align: justify; text-indent: -17pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Management is responsible for the Company&rsquo;s
+compliance with the servicing criteria. Our responsibility is to express an opinion on management&rsquo;s assertion about the Company&rsquo;s
+compliance based on our examination.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Our examination was conducted in accordance
+with the attestation standards of the Public Company Accounting Oversight Board (United States) and, accordingly, included examining,
+on a test basis, evidence about the Company<I>&rsquo;</I>s compliance with the servicing criteria specified above and performing
+such other procedures as we considered necessary in the circumstances. Our examination included testing selected asset-backed transactions
+and securities that comprise the Platform, testing selected servicing activities related to the Platform, and determining whether
+the Company processed those selected transactions and performed those selected activities in compliance with the servicing criteria.
+Furthermore, our procedures were limited to the selected transactions and servicing activities performed by the Company during
+the period covered by this report. Our procedures were not designed to determine whether errors may have occurred either prior
+to or subsequent to our tests that may have affected the balances or amounts calculated or reported by the Company during the period
+covered by this report for the selected transactions or any other transactions. We believe that our examination provides a reasonable
+basis for our opinion. Our examination does not provide a legal determination on the Company&rsquo;s compliance with the servicing
+criteria.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">In our opinion, management&rsquo;s assertion
+that the Company complied with the aforementioned servicing criteria, as of and for the year ended December&nbsp;31, 2015, is fairly
+stated, in all material respects.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">/s/KPMG LLP</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Chicago, Illinois</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">February&nbsp;26, 2016</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B></B></P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-35.1
+<SEQUENCE>7
+<FILENAME>v435249_ex35-1.htm
+<DESCRIPTION>SERVICING COMPLIANCE STATEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Exhibit 35.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;Servicing Compliance Statement on GE Capital
+Global Holdings, LLC</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">GE EQUIPMENT MIDTICKET LLC, SERIES 2012-1</FONT></TD>
+    <TD STYLE="width: 50%; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">February 22, 2016</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">201 Merritt 7</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Norwalk, CT 06851</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Attention:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;Capital Markets Operations</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Pursuant to Section 2.8 of the Servicing Agreement, dated as of
+September 26, 2012 (the &ldquo;Servicing Agreement&rdquo;), between GE EQUIPMENT MIDTICKET LLC, SERIES 2012-1 and GE CAPITAL GLOBAL
+HOLDINGS, LLC, as successor to <FONT STYLE="text-transform: uppercase">General Electric Capital Corporation</FONT>, as Servicer,
+the undersigned hereby certify that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 1in"></TD><TD STYLE="width: 0.5in">(i)</TD><TD>a review of the activities of the Servicer during the preceding calendar year and of performance under the Servicing Agreement
+has been made under the supervision of the undersigned; and<BR>
+<BR>
+</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 1in"></TD><TD STYLE="width: 0.5in">(ii)</TD><TD>to the best knowledge of the undersigned, based on such review, the Servicer has fulfilled all of its obligations under the
+Servicing Agreement throughout such year.<BR>
+<BR>
+</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">GE CAPITAL GLOBAL HOLDINGS, LLC<BR>
+<BR>
+</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 6%">By:</TD>
+    <TD STYLE="width: 39%; border-bottom: Black 1pt solid">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">/s/ Thomas A. Davidson</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P></TD>
+    <TD STYLE="width: 55%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>Name:</TD>
+    <TD STYLE="text-decoration: none">Thomas A. Davidson</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>Title:</TD>
+    <TD>Senior Managing Director, Capital Markets</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>and an authorized officer of the Servicer</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;<B></B></P>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
